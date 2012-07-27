@@ -1,3 +1,3 @@
-def hellotest
+def helloWorld
 	print "Hello, Ruby\n"
 end
